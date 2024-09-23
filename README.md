@@ -66,4 +66,4 @@ Table of Contents
 +
 
 
-[1.資訊人員的角色與職責](docs\Information_Personnel_Roles_and_Responsibilities\README.md)
+[1.資訊人員的角色與職責](docs/Information_Personnel_Roles_and_Responsibilities/README.md)
