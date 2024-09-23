@@ -33,7 +33,7 @@
 
  + clean code
  + 資料結構與演算法
- + Refactor
+ + 重構Refactor
  + 資料庫設計
  + OOAD
 
