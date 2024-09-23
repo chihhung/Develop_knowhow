@@ -1,6 +1,6 @@
 # 專體開發人員參考
 
-## 建置中 ...
+## 建置中
 
 大網
 
@@ -22,7 +22,7 @@
 + eclipse
 + intellij
 + container:padman
- 
+
 3.前後端平台
 
 + vue3
@@ -50,6 +50,7 @@
 7.CI/CD
 
 8.專案管理
+
 + PMP
 + scrum
 
