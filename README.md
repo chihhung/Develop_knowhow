@@ -48,12 +48,11 @@
 + clean architecture
 + Domain-Driven Design
 + mircservice design
-+ OOAD
 + OOAD with RUP
 + TOGAF(The Open Group Architecture Framework)
 
-
 6.DevOp
+
 + CI/CD
 
 7.專案管理
@@ -75,3 +74,7 @@ Table of Contents
 [4.程式設計心法](docs/Programming_mindset/README.md)
 
 [5.系統與架構設計](docs/System_and_Architecture_Design/README.md)
+
+[6.DevOp](docs/devop/README.md)
+
+[7.專案管理](docs/project_management/README.md)
