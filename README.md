@@ -11,12 +11,14 @@
 2.程式語言與開發環境
 
 + java
-+ phthon
++ python
 + html/ccs3
-+ javascript/typescript
++ javascript
++ typescript
 + sql
 + UML
-+ git/github
++ git
++ github
 + gitlab
 + vscode
 + eclipse
@@ -33,7 +35,7 @@
 
 + clean code
 + 資料結構與演算法
-+ 重構Refactor
++ 重構 Refactor
 + 資料庫設計
 + OOAD
 
@@ -60,3 +62,5 @@ Table of Contents
 +
 
 [1.資訊人員的角色與職責](docs/Information_Personnel_Roles_and_Responsibilities/README.md)
+
+[2.程式語言與開發環境](docs/Programming_Languages_​​and_Development_Environments/README.md)
