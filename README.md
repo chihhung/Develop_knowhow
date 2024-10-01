@@ -46,14 +46,17 @@
 + desing pattern
 + java desing pattern
 + clean architecture
++ Domain-Driven Design
++ mircservice design
++ OOAD
++ OOAD with RUP
++ TOGAF(The Open Group Architecture Framework)
 
-5.Domain-Driven Design
 
-6.mircservice design
+6.DevOp
++ CI/CD
 
-7.CI/CD
-
-8.專案管理
+7.專案管理
 
 + PMP
 + scrum
@@ -66,3 +69,9 @@ Table of Contents
 [1.資訊人員的角色與職責](docs/Information_Personnel_Roles_and_Responsibilities/README.md)
 
 [2.程式語言與開發環境](docs/Programming_Languages_​​and_Development_Environments/README.md)
+
+[3.前後端平台](docs/Front-end_and_back-end_platforms/README.md)
+
+[4.程式設計心法](docs/Programming_mindset/README.md)
+
+[5.系統與架構設計](docs/System_and_Architecture_Design/README.md)
