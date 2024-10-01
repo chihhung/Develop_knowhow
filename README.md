@@ -15,7 +15,7 @@
 + html/ccs3
 + javascript
 + typescript
-+ sql
++ SQL
 + UML
 + git
 + github
@@ -23,6 +23,8 @@
 + vscode
 + eclipse
 + intellij
++ postman
++ jmeter
 + container:padman
 
 3.前後端平台

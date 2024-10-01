@@ -1,6 +1,7 @@
 [< backto專體開發從業人員參考](../../README.md)
 
 # 程式語言與開發環境
+
 [1.Java](docs/Programming_Languages_and_Development_Environments/java/README.md)
 
 [2.Python](docs/Programming_Languages_​and_Development_Environments/python/README.md)
@@ -20,3 +21,15 @@
 [10.GitHab](docs/Programming_Languages_​​and_Development_Environments/githab/README.md)
 
 [11.Gitlab](docs/Programming_Languages_​​and_Development_Environments/gitlab/README.md)
+
+[12.vs code](docs/Programming_Languages_​​and_Development_Environments/vscode/README.md)
+
+[13.eclipse](docs/Programming_Languages_​​and_Development_Environments/eclipse/README.md)
+
+[14.intellij](docs/Programming_Languages_​​and_Development_Environments/intellij/README.md)
+
+[15.Postman](docs/Programming_Languages_​​and_Development_Environments/postman/README.md)
+
+[16.Jmeter](docs/Programming_Languages_​​and_Development_Environments/jmeter/README.md)
+
+[17.Padman](docs/Programming_Languages_​​and_Development_Environments/padman/README.md)
