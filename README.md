@@ -23,6 +23,7 @@
 + vscode
 + eclipse
 + intellij
++ Maven
 + postman
 + jmeter
 + container:padman
