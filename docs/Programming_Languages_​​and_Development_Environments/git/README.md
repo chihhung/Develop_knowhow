@@ -81,6 +81,8 @@ git config --global user.email "<your_default_email@example.com>"
 測試 SSH 配置是否正確：
 
 bash
+```
 ssh -T <git@github.com-personal>
 ssh -T <git@github.com-company>
 ssh -T <git@gitlab.com-company>
+```
