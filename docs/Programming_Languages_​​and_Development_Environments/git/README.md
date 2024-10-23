@@ -22,24 +22,34 @@ ssh-keygen -t rsa -C "<your_company_email@example.com>" -f ~/.ssh/id_rsa_company
 bash
 
 # GitHub 個人帳號
+
 ```
 Host github.com-personal
+
   HostName github.com
+
   User git
+
   IdentityFile ~/.ssh/id_rsa_personal
 ```
 # GitHub 公司帳號
 ```
 Host github.com-company
+
   HostName github.com
+
   User git
+
   IdentityFile ~/.ssh/id_rsa_company
 ```
 # GitLab 公司帳號
 ```
 Host gitlab.com-company
+
   HostName gitlab.com
+
   User git
+  
   IdentityFile ~/.ssh/id_rsa_company
 ```
 3.克隆和操作倉庫
