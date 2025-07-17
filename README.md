@@ -79,3 +79,6 @@ Table of Contents
 [6.DevOp](docs/devop/README.md)
 
 [7.專案管理](docs/project_management/README.md)
+
+[8.如何透過 AI 建立軟體開發團隊, 從專案管理, SDLC,開發平台,系統分析,系統設計,系統開發, 整合測試, 壓力測試,使用者驗收測試,自動部署,上線,教育訓練,驗收,保固等流程.](docs/How_to_Build_Software_Development_Teams_with_AI/README.md)
+
